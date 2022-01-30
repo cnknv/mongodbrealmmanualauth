@@ -1,0 +1,6 @@
+framework module Pods_Advisor_360_AuthTests {
+  umbrella header "Pods-Realm DB AuthTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

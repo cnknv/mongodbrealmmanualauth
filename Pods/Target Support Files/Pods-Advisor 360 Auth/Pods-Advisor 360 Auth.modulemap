@@ -1,0 +1,6 @@
+framework module Pods_Advisor_360_Auth {
+  umbrella header "Pods-Realm DB Auth-umbrella.h"
+
+  export *
+  module * { export * }
+}
